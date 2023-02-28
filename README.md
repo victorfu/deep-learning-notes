@@ -1,6 +1,6 @@
 # Deep Learning Notes
 
-## Papers
+## NLP Papers
 
 ### Google
 
@@ -22,6 +22,10 @@
 Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever, Dario Amodei_. [[2005.14165](https://arxiv.org/abs/2005.14165)] (**GPT-3**)
 
 **Training Language Models to Follow Instructions with Human Feedback**. _Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, John Schulman, Jacob Hilton, Fraser Kelton, Luke Miller, Maddie Simens, Amanda Askell, Peter Welinder, Paul Christiano, Jan Leike, Ryan Lowe_. [[2203.02155](https://arxiv.org/abs/2203.02155)] (**InstructGPT**)
+
+## Computer Vision Papers
+
+**Diffusion Models: A Comprehensive Survey of Methods and Applications**. _Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Yingxia Shao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang_. [[2209.00796](https://arxiv.org/abs/2209.00796)]
 
 ### Lee, Hugn-yi
 

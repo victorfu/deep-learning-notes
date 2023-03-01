@@ -8,6 +8,8 @@
 
 **Attention Is All You Need**. _Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin_. NIPS 2017. [[1706.03762](https://arxiv.org/abs/1706.03762)]
 
+**Generating Wikipedia by Summarizing Long Sequences**. _Peter J. Liu, Mohammad Saleh, Etienne Pot, Ben Goodrich, Ryan Sepassi, Lukasz Kaiser, Noam Shazeer_. [[1801.10198](https://arxiv.org/abs/1801.10198)]
+
 **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**. _Jacob Devlin, Ming-Wei Chang, Kenton Lee and Kristina Toutanova_. NAACL 2019. [[1810.04805](https://arxiv.org/pdf/1810.04805.pdf)] [[code & model](https://github.com/google-research/bert)]
 
 **Well-Read Students Learn Better: The Impact of Student Initialization on Knowledge Distillation**. _Iulia Turc, Ming-Wei Chang, Kenton Lee, Kristina Toutanova_. Preprint. [[1908.08962](https://arxiv.org/pdf/1908.08962.pdf)]
@@ -70,3 +72,9 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 **Neural Networks: Zero to Hero** [[link](https://karpathy.ai/zero-to-hero.html)]
 
 **Let's build GPT: from scratch, in code, spelled out** [[link](https://youtu.be/kCc8FmEb1nY)]
+
+**Generative Models** [[link](https://openai.com/blog/generative-models/)]
+
+**Text and Code Embeddings** [[link](https://openai.com/blog/introducing-text-and-code-embeddings/)]
+
+**Understanding dimensions in PyTorch** [[link](https://towardsdatascience.com/understanding-dimensions-in-pytorch-6edf9972d3be)]

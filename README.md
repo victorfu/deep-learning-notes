@@ -1,6 +1,6 @@
 # Deep Learning Notes
 
-## NLP Papers
+## NLP
 
 ### Google
 
@@ -25,7 +25,11 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 
 **Training Language Models to Follow Instructions with Human Feedback**. _Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, John Schulman, Jacob Hilton, Fraser Kelton, Luke Miller, Maddie Simens, Amanda Askell, Peter Welinder, Paul Christiano, Jan Leike, Ryan Lowe_. [[2203.02155](https://arxiv.org/abs/2203.02155)] (**InstructGPT**)
 
-## Computer Vision Papers
+## Diffusion Models
+
+**Deep Unsupervised Learning using Nonequilibrium Thermodynamics**. _Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan, Surya Ganguli_. [[1503.03585](https://arxiv.org/abs/1503.03585)]
+
+**Generative Modeling by Estimating Gradients of the Data Distribution**. _Yang Song, Stefano Ermon_. [[1907.05600](https://arxiv.org/abs/1907.05600)]
 
 **Diffusion Models: A Comprehensive Survey of Methods and Applications**. _Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Yingxia Shao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang_. [[2209.00796](https://arxiv.org/abs/2209.00796)]
 

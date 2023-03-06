@@ -29,6 +29,8 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 
 **Diffusion Models: A Comprehensive Survey of Methods and Applications**. _Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Yingxia Shao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang_. [[2209.00796](https://arxiv.org/abs/2209.00796)]
 
+**Adding Conditional Control to Text-to-Image Diffusion Models**. _Lvmin Zhang, Maneesh Agrawala_. [[2302.05543](https://arxiv.org/abs/2302.05543)]
+
 ### Lee, Hugn-yi
 
 **Basic Machine Learning**

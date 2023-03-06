@@ -17,6 +17,9 @@ def main(args):
     output += f" [[{id}](https://arxiv.org/abs/{id})]"
     print(output)
 
+    with open("README.md", mode="a") as file:
+        file.write("\n" + output + "\n")
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

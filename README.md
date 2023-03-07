@@ -25,6 +25,10 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 
 **Training Language Models to Follow Instructions with Human Feedback**. _Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, John Schulman, Jacob Hilton, Fraser Kelton, Luke Miller, Maddie Simens, Amanda Askell, Peter Welinder, Paul Christiano, Jan Leike, Ryan Lowe_. [[2203.02155](https://arxiv.org/abs/2203.02155)] (**InstructGPT**)
 
+### Others
+
+**LLaMA: Open and Efficient Foundation Language Models**. _Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne Lachaux, Timoth�e Lacroix, Baptiste Rozi�re, Naman Goyal, Eric Hambro, Faisal Azhar, Aurelien Rodriguez, Armand Joulin, Edouard Grave, Guillaume Lample_. [[2302.13971v1](https://arxiv.org/abs/2302.13971v1)]
+
 ## Diffusion Models
 
 **Deep Unsupervised Learning using Nonequilibrium Thermodynamics**. _Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan, Surya Ganguli_. [[1503.03585](https://arxiv.org/abs/1503.03585)]

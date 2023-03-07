@@ -31,6 +31,12 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 
 **Generative Modeling by Estimating Gradients of the Data Distribution**. _Yang Song, Stefano Ermon_. [[1907.05600](https://arxiv.org/abs/1907.05600)]
 
+**Denoising Diffusion Probabilistic Models**. _Jonathan Ho, Ajay Jain, Pieter Abbeel_. [[2006.11239](https://arxiv.org/abs/2006.11239)]
+
+**Improved Denoising Diffusion Probabilistic Models**. _Alex Nichol, Prafulla Dhariwal_. [[2102.09672](https://arxiv.org/abs/2102.09672)]
+
+**Diffusion Models Beat GANs on Image Synthesis**. _Prafulla Dhariwal, Alex Nichol_. [[2105.05233](https://arxiv.org/abs/2105.05233)]
+
 **Diffusion Models: A Comprehensive Survey of Methods and Applications**. _Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Yingxia Shao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang_. [[2209.00796](https://arxiv.org/abs/2209.00796)]
 
 **Adding Conditional Control to Text-to-Image Diffusion Models**. _Lvmin Zhang, Maneesh Agrawala_. [[2302.05543](https://arxiv.org/abs/2302.05543)]

@@ -37,6 +37,8 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 
 **Denoising Diffusion Probabilistic Models**. _Jonathan Ho, Ajay Jain, Pieter Abbeel_. [[2006.11239](https://arxiv.org/abs/2006.11239)]
 
+**Taming Transformers for High-Resolution Image Synthesis**. _Patrick Esser, Robin Rombach, Björn Ommer_. [[2012.09841](https://arxiv.org/abs/2012.09841)]
+
 **Improved Denoising Diffusion Probabilistic Models**. _Alex Nichol, Prafulla Dhariwal_. [[2102.09672](https://arxiv.org/abs/2102.09672)]
 
 **Diffusion Models Beat GANs on Image Synthesis**. _Prafulla Dhariwal, Alex Nichol_. [[2105.05233](https://arxiv.org/abs/2105.05233)]

@@ -41,6 +41,8 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 
 **Diffusion Models Beat GANs on Image Synthesis**. _Prafulla Dhariwal, Alex Nichol_. [[2105.05233](https://arxiv.org/abs/2105.05233)]
 
+**High-Resolution Image Synthesis with Latent Diffusion Models**. _Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Bj�rn Ommer_. [[2112.10752](https://arxiv.org/abs/2112.10752)]
+
 **Diffusion Models: A Comprehensive Survey of Methods and Applications**. _Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Yingxia Shao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang_. [[2209.00796](https://arxiv.org/abs/2209.00796)]
 
 **Adding Conditional Control to Text-to-Image Diffusion Models**. _Lvmin Zhang, Maneesh Agrawala_. [[2302.05543](https://arxiv.org/abs/2302.05543)]

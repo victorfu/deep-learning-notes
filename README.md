@@ -1,8 +1,6 @@
-# Deep Learning Notes
+# NLP
 
-## NLP
-
-### Google
+## Google
 
 **Sequence to Sequence Learning with Neural Networks**. _Ilya Sutskever, Oriol Vinyals, Quoc V. Le_. [[1409.3215](https://arxiv.org/abs/1409.3215)]
 
@@ -14,7 +12,7 @@
 
 **Well-Read Students Learn Better: The Impact of Student Initialization on Knowledge Distillation**. _Iulia Turc, Ming-Wei Chang, Kenton Lee, Kristina Toutanova_. Preprint. [[1908.08962](https://arxiv.org/pdf/1908.08962.pdf)]
 
-### OpenAI
+## OpenAI
 
 **Improving Language Understanding by Generative Pre-Training**. _Alec Radford, Karthik Narasimhan, Tim Salimans and Ilya Sutskever_. Preprint. [[pdf](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)] [[project](https://openai.com/blog/language-unsupervised/)] (**GPT**)
 
@@ -25,7 +23,11 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 
 **Training Language Models to Follow Instructions with Human Feedback**. _Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, John Schulman, Jacob Hilton, Fraser Kelton, Luke Miller, Maddie Simens, Amanda Askell, Peter Welinder, Paul Christiano, Jan Leike, Ryan Lowe_. [[2203.02155](https://arxiv.org/abs/2203.02155)] (**InstructGPT**)
 
-## Diffusion Models
+## Others
+
+**LLaMA: Open and Efficient Foundation Language Models**. _Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne Lachaux, Timoth�e Lacroix, Baptiste Rozi�re, Naman Goyal, Eric Hambro, Faisal Azhar, Aurelien Rodriguez, Armand Joulin, Edouard Grave, Guillaume Lample_. [[2302.13971v1](https://arxiv.org/abs/2302.13971v1)]
+
+# Diffusion Models
 
 **Deep Unsupervised Learning using Nonequilibrium Thermodynamics**. _Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan, Surya Ganguli_. [[1503.03585](https://arxiv.org/abs/1503.03585)]
 
@@ -33,15 +35,19 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 
 **Denoising Diffusion Probabilistic Models**. _Jonathan Ho, Ajay Jain, Pieter Abbeel_. [[2006.11239](https://arxiv.org/abs/2006.11239)]
 
+**Taming Transformers for High-Resolution Image Synthesis**. _Patrick Esser, Robin Rombach, Björn Ommer_. [[2012.09841](https://arxiv.org/abs/2012.09841)]
+
 **Improved Denoising Diffusion Probabilistic Models**. _Alex Nichol, Prafulla Dhariwal_. [[2102.09672](https://arxiv.org/abs/2102.09672)]
 
 **Diffusion Models Beat GANs on Image Synthesis**. _Prafulla Dhariwal, Alex Nichol_. [[2105.05233](https://arxiv.org/abs/2105.05233)]
+
+**High-Resolution Image Synthesis with Latent Diffusion Models**. _Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Bj�rn Ommer_. [[2112.10752](https://arxiv.org/abs/2112.10752)]
 
 **Diffusion Models: A Comprehensive Survey of Methods and Applications**. _Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Yingxia Shao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang_. [[2209.00796](https://arxiv.org/abs/2209.00796)]
 
 **Adding Conditional Control to Text-to-Image Diffusion Models**. _Lvmin Zhang, Maneesh Agrawala_. [[2302.05543](https://arxiv.org/abs/2302.05543)]
 
-### Lee, Hugn-yi
+## Lee, Hugn-yi
 
 **Basic Machine Learning**
 [[ML2021-pdf](<https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/regression%20(v16).pdf>)]
@@ -77,7 +83,7 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 [[ML2021-20](https://youtu.be/ExXA05i8DEQ)]
 [[ML2021-21](https://youtu.be/WY_E0Sd4K80)]
 
-### Worth Reading
+## Worth Reading
 
 **_The Illustrated GPT-2_** [[link](https://jalammar.github.io/illustrated-gpt2/)]
 

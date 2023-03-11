@@ -1,6 +1,8 @@
 import urllib, urllib.request
 import xmltodict
 import argparse
+import requests
+from tqdm import tqdm
 
 
 def main(args):
@@ -20,11 +22,27 @@ def main(args):
     with open("README.md", mode="a") as file:
         file.write("\n" + output + "\n")
 
+    if args.download:
+        print(f"Downloading {id}.pdf")
+        arxiv_url = f"https://arxiv.org/pdf/{id}.pdf"
+        response = requests.get(arxiv_url, stream=True)
+        with open(f"{id}.pdf", "wb") as f:
+            for chunk in tqdm(
+                response.iter_content(chunk_size=1024),
+            ):
+                if chunk:
+                    f.write(chunk)
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
 
     parser.add_argument("--url", help="arxiv url", required=True)
+    parser.add_argument(
+        "--download",
+        action="store_true",
+        help="Flag to indicate whether to download the paper or not",
+    )
 
     parser.add_argument(
         "--version",

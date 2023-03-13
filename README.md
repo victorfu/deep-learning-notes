@@ -100,3 +100,7 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 **Understanding dimensions in PyTorch** [[link](https://towardsdatascience.com/understanding-dimensions-in-pytorch-6edf9972d3be)]
 
 **Alien Dreams: An Emerging Art Scene** _Charlie Snell_ [[link](https://ml.berkeley.edu/blog/posts/clip-art/)]
+
+**Improving Diffusion Models as an Alternative To GANs** [[link](https://developer.nvidia.com/blog/improving-diffusion-models-as-an-alternative-to-gans-part-1/)]
+
+**What are Diffusion Models?** [[link](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)]

@@ -1,7 +1,5 @@
 # NLP
 
-## Google
-
 **Sequence to Sequence Learning with Neural Networks**. _Ilya Sutskever, Oriol Vinyals, Quoc V. Le_. [[1409.3215](https://arxiv.org/abs/1409.3215)]
 
 **Attention Is All You Need**. _Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin_. NIPS 2017. [[1706.03762](https://arxiv.org/abs/1706.03762)]
@@ -12,7 +10,7 @@
 
 **Well-Read Students Learn Better: The Impact of Student Initialization on Knowledge Distillation**. _Iulia Turc, Ming-Wei Chang, Kenton Lee, Kristina Toutanova_. Preprint. [[1908.08962](https://arxiv.org/pdf/1908.08962.pdf)]
 
-## OpenAI
+## GPT (OpenAI)
 
 **Improving Language Understanding by Generative Pre-Training**. _Alec Radford, Karthik Narasimhan, Tim Salimans and Ilya Sutskever_. Preprint. [[pdf](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)] [[project](https://openai.com/blog/language-unsupervised/)] (**GPT**)
 
@@ -25,9 +23,13 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 
 ## Others
 
-**LLaMA: Open and Efficient Foundation Language Models**. _Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne Lachaux, Timoth�e Lacroix, Baptiste Rozi�re, Naman Goyal, Eric Hambro, Faisal Azhar, Aurelien Rodriguez, Armand Joulin, Edouard Grave, Guillaume Lample_. [[2302.13971v1](https://arxiv.org/abs/2302.13971v1)]
+**LLaMA: Open and Efficient Foundation Language Models**. _Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne Lachaux, Timothée Lacroix, Baptiste Rozière Naman Goyal, Eric Hambro, Faisal Azhar, Aurelien Rodriguez, Armand Joulin, Edouard Grave, Guillaume Lample_. [[2302.13971v1](https://arxiv.org/abs/2302.13971v1)]
 
-# Diffusion Models
+# Computer Vision
+
+**Learning Transferable Visual Models From Natural Language Supervision**. _Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever_. [[2103.00020](https://arxiv.org/abs/2103.00020)]
+
+## Diffusion Models
 
 **Deep Unsupervised Learning using Nonequilibrium Thermodynamics**. _Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan, Surya Ganguli_. [[1503.03585](https://arxiv.org/abs/1503.03585)]
 
@@ -96,3 +98,5 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 **Text and Code Embeddings** [[link](https://openai.com/blog/introducing-text-and-code-embeddings/)]
 
 **Understanding dimensions in PyTorch** [[link](https://towardsdatascience.com/understanding-dimensions-in-pytorch-6edf9972d3be)]
+
+**Alien Dreams: An Emerging Art Scene** _Charlie Snell_ [[link](https://ml.berkeley.edu/blog/posts/clip-art/)]

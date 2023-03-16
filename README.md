@@ -23,6 +23,8 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 
 ## Others
 
+**An Introduction to Variational Autoencoders**. _Diederik P. Kingma, Max Welling_. [[1906.02691](https://arxiv.org/abs/1906.02691)]
+
 **LLaMA: Open and Efficient Foundation Language Models**. _Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne Lachaux, Timothée Lacroix, Baptiste Rozière Naman Goyal, Eric Hambro, Faisal Azhar, Aurelien Rodriguez, Armand Joulin, Edouard Grave, Guillaume Lample_. [[2302.13971v1](https://arxiv.org/abs/2302.13971v1)]
 
 # Computer Vision
@@ -106,3 +108,7 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 **Improving Diffusion Models as an Alternative To GANs** [[link](https://developer.nvidia.com/blog/improving-diffusion-models-as-an-alternative-to-gans-part-1/)]
 
 **What are Diffusion Models?** [[link](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)]
+
+**labml.ai Deep Learning Paper Implementations** [[link](https://github.com/labmlai/annotated_deep_learning_paper_implementations)]
+
+**paperswithcode: diffusion** [[link](https://paperswithcode.com/method/diffusion)]

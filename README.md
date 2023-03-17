@@ -1,7 +1,5 @@
 # NLP
 
-## Google
-
 **Sequence to Sequence Learning with Neural Networks**. _Ilya Sutskever, Oriol Vinyals, Quoc V. Le_. [[1409.3215](https://arxiv.org/abs/1409.3215)]
 
 **Attention Is All You Need**. _Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin_. NIPS 2017. [[1706.03762](https://arxiv.org/abs/1706.03762)]
@@ -12,7 +10,7 @@
 
 **Well-Read Students Learn Better: The Impact of Student Initialization on Knowledge Distillation**. _Iulia Turc, Ming-Wei Chang, Kenton Lee, Kristina Toutanova_. Preprint. [[1908.08962](https://arxiv.org/pdf/1908.08962.pdf)]
 
-## OpenAI
+## GPT (OpenAI)
 
 **Improving Language Understanding by Generative Pre-Training**. _Alec Radford, Karthik Narasimhan, Tim Salimans and Ilya Sutskever_. Preprint. [[pdf](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)] [[project](https://openai.com/blog/language-unsupervised/)] (**GPT**)
 
@@ -25,9 +23,15 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 
 ## Others
 
-**LLaMA: Open and Efficient Foundation Language Models**. _Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne Lachaux, Timoth�e Lacroix, Baptiste Rozi�re, Naman Goyal, Eric Hambro, Faisal Azhar, Aurelien Rodriguez, Armand Joulin, Edouard Grave, Guillaume Lample_. [[2302.13971v1](https://arxiv.org/abs/2302.13971v1)]
+**An Introduction to Variational Autoencoders**. _Diederik P. Kingma, Max Welling_. [[1906.02691](https://arxiv.org/abs/1906.02691)]
 
-# Diffusion Models
+**LLaMA: Open and Efficient Foundation Language Models**. _Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne Lachaux, Timothée Lacroix, Baptiste Rozière Naman Goyal, Eric Hambro, Faisal Azhar, Aurelien Rodriguez, Armand Joulin, Edouard Grave, Guillaume Lample_. [[2302.13971v1](https://arxiv.org/abs/2302.13971v1)]
+
+# Computer Vision
+
+**Learning Transferable Visual Models From Natural Language Supervision**. _Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever_. [[2103.00020](https://arxiv.org/abs/2103.00020)]
+
+## Diffusion Models
 
 **Deep Unsupervised Learning using Nonequilibrium Thermodynamics**. _Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan, Surya Ganguli_. [[1503.03585](https://arxiv.org/abs/1503.03585)]
 
@@ -42,6 +46,8 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 **Diffusion Models Beat GANs on Image Synthesis**. _Prafulla Dhariwal, Alex Nichol_. [[2105.05233](https://arxiv.org/abs/2105.05233)]
 
 **High-Resolution Image Synthesis with Latent Diffusion Models**. _Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Bj�rn Ommer_. [[2112.10752](https://arxiv.org/abs/2112.10752)]
+
+**Hierarchical Text-Conditional Image Generation with CLIP Latents**. _Aditya Ramesh, Prafulla Dhariwal, Alex Nichol, Casey Chu, Mark Chen_. [[2204.06125](https://arxiv.org/abs/2204.06125)]
 
 **Diffusion Models: A Comprehensive Survey of Methods and Applications**. _Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Yingxia Shao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang_. [[2209.00796](https://arxiv.org/abs/2209.00796)]
 
@@ -96,3 +102,13 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 **Text and Code Embeddings** [[link](https://openai.com/blog/introducing-text-and-code-embeddings/)]
 
 **Understanding dimensions in PyTorch** [[link](https://towardsdatascience.com/understanding-dimensions-in-pytorch-6edf9972d3be)]
+
+**Alien Dreams: An Emerging Art Scene** _Charlie Snell_ [[link](https://ml.berkeley.edu/blog/posts/clip-art/)]
+
+**Improving Diffusion Models as an Alternative To GANs** [[link](https://developer.nvidia.com/blog/improving-diffusion-models-as-an-alternative-to-gans-part-1/)]
+
+**What are Diffusion Models?** [[link](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)]
+
+**labml.ai Deep Learning Paper Implementations** [[link](https://github.com/labmlai/annotated_deep_learning_paper_implementations)]
+
+**paperswithcode: diffusion** [[link](https://paperswithcode.com/method/diffusion)]

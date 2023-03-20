@@ -32,9 +32,16 @@ def main(args):
     output += f" [[{id}](https://arxiv.org/abs/{id})]"
     print(output)
 
-    # Append the citation to the README
-    with open("README.md", mode="a") as file:
-        file.write("\n" + output + "\n")
+    # Check if the citation is already in the README and append it if not
+    with open("README.md", mode="r") as file:
+        readme_content = file.read()
+
+    if output not in readme_content:
+        # Append the citation to the README
+        with open("README.md", mode="a") as file:
+            file.write("\n" + output + "\n")
+    else:
+        print("The paper is already in the README.md file. Skipping...")
 
     # If the user provided the --download option, download the PDF
     if args.download:

@@ -39,11 +39,17 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 
 **Denoising Diffusion Probabilistic Models**. _Jonathan Ho, Ajay Jain, Pieter Abbeel_. [[2006.11239](https://arxiv.org/abs/2006.11239)]
 
+**Denoising Diffusion Implicit Models**. _Jiaming Song, Chenlin Meng, Stefano Ermon_. [[2010.02502](https://arxiv.org/abs/2010.02502)]
+
+**Score-Based Generative Modeling through Stochastic Differential Equations**. _Yang Song, Jascha Sohl-Dickstein, Diederik P. Kingma, Abhishek Kumar, Stefano Ermon, Ben Poole_. [[2011.13456](https://arxiv.org/abs/2011.13456)]
+
 **Taming Transformers for High-Resolution Image Synthesis**. _Patrick Esser, Robin Rombach, Björn Ommer_. [[2012.09841](https://arxiv.org/abs/2012.09841)]
 
 **Improved Denoising Diffusion Probabilistic Models**. _Alex Nichol, Prafulla Dhariwal_. [[2102.09672](https://arxiv.org/abs/2102.09672)]
 
 **Diffusion Models Beat GANs on Image Synthesis**. _Prafulla Dhariwal, Alex Nichol_. [[2105.05233](https://arxiv.org/abs/2105.05233)]
+
+**Variational Diffusion Models**. _Diederik P. Kingma, Tim Salimans, Ben Poole, Jonathan Ho_. [[2107.00630](https://arxiv.org/abs/2107.00630)]
 
 **High-Resolution Image Synthesis with Latent Diffusion Models**. _Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Bj�rn Ommer_. [[2112.10752](https://arxiv.org/abs/2112.10752)]
 
@@ -110,5 +116,3 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 **What are Diffusion Models?** [[link](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)]
 
 **labml.ai Deep Learning Paper Implementations** [[link](https://github.com/labmlai/annotated_deep_learning_paper_implementations)]
-
-**paperswithcode: diffusion** [[link](https://paperswithcode.com/method/diffusion)]

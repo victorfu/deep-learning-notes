@@ -10,6 +10,8 @@
 
 **Well-Read Students Learn Better: The Impact of Student Initialization on Knowledge Distillation**. _Iulia Turc, Ming-Wei Chang, Kenton Lee, Kristina Toutanova_. Preprint. [[1908.08962](https://arxiv.org/pdf/1908.08962.pdf)]
 
+**LLaMA: Open and Efficient Foundation Language Models**. _Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne Lachaux, Timothée Lacroix, Baptiste Rozière Naman Goyal, Eric Hambro, Faisal Azhar, Aurelien Rodriguez, Armand Joulin, Edouard Grave, Guillaume Lample_. [[2302.13971v1](https://arxiv.org/abs/2302.13971v1)]
+
 ## GPT (OpenAI)
 
 **Improving Language Understanding by Generative Pre-Training**. _Alec Radford, Karthik Narasimhan, Tim Salimans and Ilya Sutskever_. Preprint. [[pdf](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)] [[project](https://openai.com/blog/language-unsupervised/)] (**GPT**)
@@ -21,13 +23,9 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 
 **Training Language Models to Follow Instructions with Human Feedback**. _Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, John Schulman, Jacob Hilton, Fraser Kelton, Luke Miller, Maddie Simens, Amanda Askell, Peter Welinder, Paul Christiano, Jan Leike, Ryan Lowe_. [[2203.02155](https://arxiv.org/abs/2203.02155)] (**InstructGPT**)
 
-## Others
+# Computer Vision
 
 **An Introduction to Variational Autoencoders**. _Diederik P. Kingma, Max Welling_. [[1906.02691](https://arxiv.org/abs/1906.02691)]
-
-**LLaMA: Open and Efficient Foundation Language Models**. _Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne Lachaux, Timothée Lacroix, Baptiste Rozière Naman Goyal, Eric Hambro, Faisal Azhar, Aurelien Rodriguez, Armand Joulin, Edouard Grave, Guillaume Lample_. [[2302.13971v1](https://arxiv.org/abs/2302.13971v1)]
-
-# Computer Vision
 
 **Learning Transferable Visual Models From Natural Language Supervision**. _Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever_. [[2103.00020](https://arxiv.org/abs/2103.00020)]
 
@@ -51,7 +49,7 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 
 **Variational Diffusion Models**. _Diederik P. Kingma, Tim Salimans, Ben Poole, Jonathan Ho_. [[2107.00630](https://arxiv.org/abs/2107.00630)]
 
-**High-Resolution Image Synthesis with Latent Diffusion Models**. _Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Bj�rn Ommer_. [[2112.10752](https://arxiv.org/abs/2112.10752)]
+**High-Resolution Image Synthesis with Latent Diffusion Models**. _Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer_. [[2112.10752](https://arxiv.org/abs/2112.10752)]
 
 **Hierarchical Text-Conditional Image Generation with CLIP Latents**. _Aditya Ramesh, Prafulla Dhariwal, Alex Nichol, Casey Chu, Mark Chen_. [[2204.06125](https://arxiv.org/abs/2204.06125)]
 

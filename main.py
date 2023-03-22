@@ -6,54 +6,45 @@ from tqdm import tqdm
 import os
 
 
-def main(args):
-    # If the user provided a URL, use the arXiv ID from that URL
-    if args.url:
-        id = args.url[args.url.rindex("/") + 1 :]
-    # If the user provided an arXiv ID, use that
-    elif args.arxiv_id:
-        id = args.arxiv_id
-    # If the user didn't provide anything, exit with an error message
-    else:
-        print("No valid input was provided. Please provide either --url or --arxiv-id.")
-        return
-
-    # Use the arXiv API to get the title and authors of the paper
+def get_xml(id):
     url = "http://export.arxiv.org/api/query?id_list=" + id
     data = urllib.request.urlopen(url)
     xml = data.read().decode("utf-8")
+    return xml
+
+
+def parse_xml(xml):
     result = xmltodict.parse(xml)
     title = " ".join(result["feed"]["entry"]["title"].replace("\n", "").split())
     authors = result["feed"]["entry"]["author"]
+    return title, authors
 
-    # Format the title, authors, and URL into a Markdown citation
+
+def format_output(title, authors, id):
     output = f"**{title}**."
     output += " _" + ", ".join(a["name"] for a in authors) + "_."
     output += f" [[{id}](https://arxiv.org/abs/{id})]"
-    print(output)
+    return output
 
-    # Check if the citation is already in the README and append it if not
-    with open("README.md", mode="r") as file:
+
+def check_duplicate(output):
+    with open("README.md", mode="r", encoding="utf-8") as file:
         readme_content = file.read()
-
     if output not in readme_content:
-        # Append the citation to the README
-        with open("README.md", mode="a") as file:
-            file.write("\n" + output + "\n")
+        return False
     else:
-        print("The paper is already in the README.md file. Skipping...")
+        return True
 
-    # If the user provided the --download option, download the PDF
+
+def download_pdf(args, id):
     if args.download:
         print(f"Downloading {id}.pdf")
         arxiv_url = f"https://arxiv.org/pdf/{id}.pdf"
         response = requests.get(arxiv_url, stream=True)
 
-        # Create the output directory if it doesn't exist
         if not os.path.exists(args.output_directory):
             os.makedirs(args.output_directory)
 
-        # Save the PDF to the specified output directory
         output_file = os.path.join(args.output_directory, f"{id}.pdf")
         print(f"Saving to {output_file}")
         with open(output_file, "wb") as f:
@@ -64,14 +55,46 @@ def main(args):
                     f.write(chunk)
 
 
+def main(args):
+    if args.url:
+        id = args.url[args.url.rindex("/") + 1 :]
+    elif args.arxiv_id:
+        id = args.arxiv_id
+    else:
+        print("No valid input was provided. Please provide either --url or --arxiv-id.")
+        return
+
+    xml = get_xml(id)
+    title, authors = parse_xml(xml)
+    output = format_output(title, authors, id)
+
+    if check_duplicate(output):
+        print("The paper is already in the README.md file. Skipping...")
+        return
+
+    if not os.path.exists(args.write_file):
+        print(f"Creating {args.write_file}")
+        with open(args.write_file, mode="w", encoding="utf-8"):
+            pass
+
+    with open(args.write_file, mode="a", encoding="utf-8") as file:
+        file.write("\n" + output + "\n")
+
+    download_pdf(args, id)
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
 
-    # Create a mutually exclusive group
     group = parser.add_mutually_exclusive_group(required=True)
-
     group.add_argument("--url", help="arxiv url")
     group.add_argument("--arxiv-id", help="arXiv paper ID (e.g., '2107.12345')")
+
+    parser.add_argument(
+        "--write-file",
+        default="README.md",
+        help="File location for the file to save the paper to. Default is README.md",
+    )
 
     parser.add_argument(
         "--download",
@@ -92,5 +115,4 @@ if __name__ == "__main__":
     )
 
     args = parser.parse_args()
-    print(args)
     main(args)

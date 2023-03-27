@@ -35,6 +35,8 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 
 **Generative Modeling by Estimating Gradients of the Data Distribution**. _Yang Song, Stefano Ermon_. [[1907.05600](https://arxiv.org/abs/1907.05600)]
 
+**Momentum Contrast for Unsupervised Visual Representation Learning**. _Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick_. [[1911.05722](https://arxiv.org/abs/1911.05722)]
+
 **Denoising Diffusion Probabilistic Models**. _Jonathan Ho, Ajay Jain, Pieter Abbeel_. [[2006.11239](https://arxiv.org/abs/2006.11239)]
 
 **Denoising Diffusion Implicit Models**. _Jiaming Song, Chenlin Meng, Stefano Ermon_. [[2010.02502](https://arxiv.org/abs/2010.02502)]
@@ -54,6 +56,8 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 **Hierarchical Text-Conditional Image Generation with CLIP Latents**. _Aditya Ramesh, Prafulla Dhariwal, Alex Nichol, Casey Chu, Mark Chen_. [[2204.06125](https://arxiv.org/abs/2204.06125)]
 
 **Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding**. _Chitwan Saharia, William Chan, Saurabh Saxena, Lala Li, Jay Whang, Emily Denton, Seyed Kamyar Seyed Ghasemipour, Burcu Karagol Ayan, S. Sara Mahdavi, Rapha Gontijo Lopes, Tim Salimans, Jonathan Ho, David J Fleet, Mohammad Norouzi_. [[2205.11487](https://arxiv.org/abs/2205.11487)]
+
+**Understanding Diffusion Models: A Unified Perspective**. _Calvin Luo_. [[2208.11970](https://arxiv.org/abs/2208.11970)]
 
 **Diffusion Models: A Comprehensive Survey of Methods and Applications**. _Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Yingxia Shao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang_. [[2209.00796](https://arxiv.org/abs/2209.00796)]
 
@@ -116,3 +120,5 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 **What are Diffusion Models?** [[link](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)]
 
 **labml.ai Deep Learning Paper Implementations** [[link](https://github.com/labmlai/annotated_deep_learning_paper_implementations)]
+
+---

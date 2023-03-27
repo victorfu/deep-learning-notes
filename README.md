@@ -122,3 +122,5 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 **labml.ai Deep Learning Paper Implementations** [[link](https://github.com/labmlai/annotated_deep_learning_paper_implementations)]
 
 ---
+
+**LoRA: Low-Rank Adaptation of Large Language Models**. _Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, Weizhu Chen_. [[2106.09685](https://arxiv.org/abs/2106.09685)]

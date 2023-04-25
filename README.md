@@ -126,3 +126,7 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 **LoRA: Low-Rank Adaptation of Large Language Models**. _Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, Weizhu Chen_. [[2106.09685](https://arxiv.org/abs/2106.09685)]
 
 **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace**. _Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang_. [[2303.17580](https://arxiv.org/abs/2303.17580)]
+
+**Segment Anything**. _Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick_. [[2304.02643](https://arxiv.org/abs/2304.02643)]
+
+**Segment Everything Everywhere All at Once**. _Xueyan Zou, Jianwei Yang, Hao Zhang, Feng Li, Linjie Li, Jianfeng Gao, Yong Jae Lee_. [[2304.06718](https://arxiv.org/abs/2304.06718)]

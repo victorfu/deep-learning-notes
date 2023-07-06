@@ -22,7 +22,10 @@ def parse_xml(xml):
 
 def format_output(title, authors, id):
     output = f"**{title}**."
-    output += " _" + ", ".join(a["name"] for a in authors) + "_."
+    if isinstance(authors, dict):
+        output += f" _{authors['name']}_."
+    else:
+        output += " _" + ", ".join(a["name"] for a in authors) + "_."
     output += f" [[{id}](https://arxiv.org/abs/{id})]"
     return output
 

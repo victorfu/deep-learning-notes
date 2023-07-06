@@ -25,15 +25,13 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 
 # Computer Vision
 
-**An Introduction to Variational Autoencoders**. _Diederik P. Kingma, Max Welling_. [[1906.02691](https://arxiv.org/abs/1906.02691)]
-
-**Learning Transferable Visual Models From Natural Language Supervision**. _Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever_. [[2103.00020](https://arxiv.org/abs/2103.00020)]
-
 ## Diffusion Models
 
 **Deep Unsupervised Learning using Nonequilibrium Thermodynamics**. _Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan, Surya Ganguli_. [[1503.03585](https://arxiv.org/abs/1503.03585)]
 
 **Generative Modeling by Estimating Gradients of the Data Distribution**. _Yang Song, Stefano Ermon_. [[1907.05600](https://arxiv.org/abs/1907.05600)]
+
+**Momentum Contrast for Unsupervised Visual Representation Learning**. _Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick_. [[1911.05722](https://arxiv.org/abs/1911.05722)]
 
 **Denoising Diffusion Probabilistic Models**. _Jonathan Ho, Ajay Jain, Pieter Abbeel_. [[2006.11239](https://arxiv.org/abs/2006.11239)]
 
@@ -53,9 +51,23 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 
 **Hierarchical Text-Conditional Image Generation with CLIP Latents**. _Aditya Ramesh, Prafulla Dhariwal, Alex Nichol, Casey Chu, Mark Chen_. [[2204.06125](https://arxiv.org/abs/2204.06125)]
 
+**Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding**. _Chitwan Saharia, William Chan, Saurabh Saxena, Lala Li, Jay Whang, Emily Denton, Seyed Kamyar Seyed Ghasemipour, Burcu Karagol Ayan, S. Sara Mahdavi, Rapha Gontijo Lopes, Tim Salimans, Jonathan Ho, David J Fleet, Mohammad Norouzi_. [[2205.11487](https://arxiv.org/abs/2205.11487)]
+
+**Understanding Diffusion Models: A Unified Perspective**. _Calvin Luo_. [[2208.11970](https://arxiv.org/abs/2208.11970)]
+
 **Diffusion Models: A Comprehensive Survey of Methods and Applications**. _Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Yingxia Shao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang_. [[2209.00796](https://arxiv.org/abs/2209.00796)]
 
 **Adding Conditional Control to Text-to-Image Diffusion Models**. _Lvmin Zhang, Maneesh Agrawala_. [[2302.05543](https://arxiv.org/abs/2302.05543)]
+
+# Others
+
+**An Introduction to Variational Autoencoders**. _Diederik P. Kingma, Max Welling_. [[1906.02691](https://arxiv.org/abs/1906.02691)]
+
+**Learning Transferable Visual Models From Natural Language Supervision**. _Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever_. [[2103.00020](https://arxiv.org/abs/2103.00020)]
+
+**LoRA: Low-Rank Adaptation of Large Language Models**. _Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, Weizhu Chen_. [[2106.09685](https://arxiv.org/abs/2106.09685)]
+
+**HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace**. _Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang_. [[2303.17580](https://arxiv.org/abs/2303.17580)]
 
 ## Lee, Hugn-yi
 
@@ -114,3 +126,13 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 **What are Diffusion Models?** [[link](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)]
 
 **labml.ai Deep Learning Paper Implementations** [[link](https://github.com/labmlai/annotated_deep_learning_paper_implementations)]
+
+---
+
+**A Survey of Large Language Models**. _Wayne Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong, Yifan Du, Chen Yang, Yushuo Chen, Zhipeng Chen, Jinhao Jiang, Ruiyang Ren, Yifan Li, Xinyu Tang, Zikang Liu, Peiyu Liu, Jian-Yun Nie, Ji-Rong Wen_. [[2303.18223](https://arxiv.org/abs/2303.18223)]
+
+**Structure and Content-Guided Video Synthesis with Diffusion Models**. _Patrick Esser, Johnathan Chiu, Parmida Atighehchian, Jonathan Granskog, Anastasis Germanidis_. [[2302.03011](https://arxiv.org/abs/2302.03011)]
+
+**Segment Anything**. _Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick_. [[2304.02643](https://arxiv.org/abs/2304.02643)]
+
+**Segment Everything Everywhere All at Once**. _Xueyan Zou, Jianwei Yang, Hao Zhang, Feng Li, Linjie Li, Jianfeng Gao, Yong Jae Lee_. [[2304.06718](https://arxiv.org/abs/2304.06718)]

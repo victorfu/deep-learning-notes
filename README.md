@@ -1,4 +1,4 @@
-# NLP
+# Natural Language Processing
 
 **Sequence to Sequence Learning with Neural Networks**. _Ilya Sutskever, Oriol Vinyals, Quoc V. Le_. [[1409.3215](https://arxiv.org/abs/1409.3215)]
 
@@ -69,7 +69,7 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 
 **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace**. _Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang_. [[2303.17580](https://arxiv.org/abs/2303.17580)]
 
-## Lee, Hugn-yi
+## Courses of Lee, Hugn-yi
 
 **Basic Machine Learning**
 [[ML2021-pdf](<https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/regression%20(v16).pdf>)]
@@ -125,13 +125,15 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 
 **What are Diffusion Models?** [[link](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)]
 
-**labml.ai Deep Learning Paper Implementations** [[link](https://github.com/labmlai/annotated_deep_learning_paper_implementations)]
-
 ---
 
 **A Survey of Large Language Models**. _Wayne Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong, Yifan Du, Chen Yang, Yushuo Chen, Zhipeng Chen, Jinhao Jiang, Ruiyang Ren, Yifan Li, Xinyu Tang, Zikang Liu, Peiyu Liu, Jian-Yun Nie, Ji-Rong Wen_. [[2303.18223](https://arxiv.org/abs/2303.18223)]
 
 **Structure and Content-Guided Video Synthesis with Diffusion Models**. _Patrick Esser, Johnathan Chiu, Parmida Atighehchian, Jonathan Granskog, Anastasis Germanidis_. [[2302.03011](https://arxiv.org/abs/2302.03011)]
+
+**Swin Transformer: Hierarchical Vision Transformer using Shifted Windows**. _Ze Liu, Yutong Lin, Yue Cao, Han Hu, Yixuan Wei, Zheng Zhang, Stephen Lin, Baining Guo_. [[2103.14030](https://arxiv.org/abs/2103.14030)]
+
+**Swin Transformer V2: Scaling Up Capacity and Resolution**. _Ze Liu, Han Hu, Yutong Lin, Zhuliang Yao, Zhenda Xie, Yixuan Wei, Jia Ning, Yue Cao, Zheng Zhang, Li Dong, Furu Wei, Baining Guo_. [[2111.09883](https://arxiv.org/abs/2111.09883)]
 
 **Segment Anything**. _Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick_. [[2304.02643](https://arxiv.org/abs/2304.02643)]
 

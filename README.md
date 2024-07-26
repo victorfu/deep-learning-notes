@@ -138,3 +138,27 @@ Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
 **Segment Anything**. _Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick_. [[2304.02643](https://arxiv.org/abs/2304.02643)]
 
 **Segment Everything Everywhere All at Once**. _Xueyan Zou, Jianwei Yang, Hao Zhang, Feng Li, Linjie Li, Jianfeng Gao, Yong Jae Lee_. [[2304.06718](https://arxiv.org/abs/2304.06718)]
+
+**You Only Look Once: Unified, Real-Time Object Detection**. _Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi_. [[1506.02640](https://arxiv.org/abs/1506.02640)]
+
+**YOLO9000: Better, Faster, Stronger**. _Joseph Redmon, Ali Farhadi_. [[1612.08242](https://arxiv.org/abs/1612.08242)]
+
+**YOLOv3: An Incremental Improvement**. _Joseph Redmon, Ali Farhadi_. [[1804.02767](https://arxiv.org/abs/1804.02767)]
+
+**YOLOv4: Optimal Speed and Accuracy of Object Detection**. _Alexey Bochkovskiy, Chien-Yao Wang, Hong-Yuan Mark Liao_. [[2004.10934](https://arxiv.org/abs/2004.10934)]
+
+**Scaled-YOLOv4: Scaling Cross Stage Partial Network**. _Chien-Yao Wang, Alexey Bochkovskiy, Hong-Yuan Mark Liao_. [[2011.08036](https://arxiv.org/abs/2011.08036)]
+
+[YOLOv5](https://github.com/ultralytics/yolov5)
+
+**YOLOX: Exceeding YOLO Series in 2021**. _Zheng Ge, Songtao Liu, Feng Wang, Zeming Li, Jian Sun_. [[2107.08430](https://arxiv.org/abs/2107.08430)]
+
+**YOLOv6: A Single-Stage Object Detection Framework for Industrial Applications**. _Chuyi Li, Lulu Li, Hongliang Jiang, Kaiheng Weng, Yifei Geng, Liang Li, Zaidan Ke, Qingyuan Li, Meng Cheng, Weiqiang Nie, Yiduo Li, Bo Zhang, Yufei Liang, Linyuan Zhou, Xiaoming Xu, Xiangxiang Chu, Xiaoming Wei, Xiaolin Wei_. [[2209.02976](https://arxiv.org/abs/2209.02976)]
+
+**YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors**. _Chien-Yao Wang, Alexey Bochkovskiy, Hong-Yuan Mark Liao_. [[2207.02696](https://arxiv.org/abs/2207.02696)]
+
+[YOLOv8](https://github.com/ultralytics/ultralytics)
+
+**YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information**. _Chien-Yao Wang, I-Hau Yeh, Hong-Yuan Mark Liao_. [[2402.13616](https://arxiv.org/abs/2402.13616)]
+
+**YOLOv10: Real-Time End-to-End Object Detection**. _Ao Wang, Hui Chen, Lihao Liu, Kai Chen, Zijia Lin, Jungong Han, Guiguang Ding_. [[2405.14458](https://arxiv.org/abs/2405.14458)]
